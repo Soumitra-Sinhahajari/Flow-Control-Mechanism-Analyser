@@ -1,0 +1,189 @@
+
+soumitra is sending data to bibhu--------------------
+Total packet sent = 37
+Effective packet sent = 37
+Total time taken = 0.018610 minutes
+Throughput =  19086 bps
+Efficiency percentage =  47.72 %
+Successfull transmission time = 0.030179 seconds/packet
+
+
+soumitra is sending data to bibhu--------------------
+Total packet sent = 37
+Effective packet sent = 37
+Total time taken = 0.016728 minutes
+Throughput =  21233 bps
+Efficiency percentage =  53.08 %
+Successfull transmission time = 0.027127 seconds/packet
+
+
+bibhu is sending data to soumitra--------------------
+Total packet sent = 37
+Effective packet sent = 37
+Total time taken = 0.017306 minutes
+Throughput =  20524 bps
+Efficiency percentage =  51.31 %
+Successfull transmission time = 0.028064 seconds/packet
+
+
+soumitra is sending data to bibhu--------------------
+Total packet sent = 37
+Effective packet sent = 37
+Total time taken = 0.024765 minutes
+Throughput =  14342 bps
+Efficiency percentage =  35.86 %
+Successfull transmission time = 0.040159 seconds/packet
+
+
+bibhu is sending data to soumitra--------------------
+Total packet sent = 37
+Effective packet sent = 37
+Total time taken = 0.018322 minutes
+Throughput =  19386 bps
+Efficiency percentage =  48.47 %
+Successfull transmission time = 0.029712 seconds/packet
+
+
+soumitra is sending data to bibhu--------------------
+Total packet sent = 438
+Effective packet sent = 438
+Total time taken = 0.201508 minutes
+Throughput =  20866 bps
+Efficiency percentage =  52.17 %
+Successfull transmission time = 0.027604 seconds/packet
+
+
+bibhu is sending data to soumitra--------------------
+Total packet sent = 438
+Effective packet sent = 438
+Total time taken = 0.195263 minutes
+Throughput =  21534 bps
+Efficiency percentage =  53.84 %
+Successfull transmission time = 0.026748 seconds/packet
+
+
+soumitra is sending data to bibhu--------------------
+Total packet sent = 438
+Effective packet sent = 438
+Total time taken = 0.249344 minutes
+Throughput =  16863 bps
+Efficiency percentage =  42.16 %
+Successfull transmission time = 0.034157 seconds/packet
+
+
+bibhu is sending data to soumitra--------------------
+Total packet sent = 438
+Effective packet sent = 438
+Total time taken = 0.215965 minutes
+Throughput =  19469 bps
+Efficiency percentage =  48.67 %
+Successfull transmission time = 0.029584 seconds/packet
+
+
+bibhu is sending data to soumitra--------------------
+Total packet sent = 438
+Effective packet sent = 438
+Total time taken = 0.214632 minutes
+Throughput =  19590 bps
+Efficiency percentage =  48.98 %
+Successfull transmission time = 0.029402 seconds/packet
+
+
+soumitra is sending data to bibhu--------------------
+Total packet sent = 77
+Effective packet sent = 37
+Total time taken = 0.359913 minutes
+Throughput =    986 bps
+Efficiency percentage =  24.67 %
+Successfull transmission time = 0.583643 seconds/packet
+
+
+bibhu is sending data to soumitra--------------------
+Total packet sent = 94
+Effective packet sent = 37
+Total time taken = 0.317930 minutes
+Throughput =   1117 bps
+Efficiency percentage =  27.93 %
+Successfull transmission time = 0.515562 seconds/packet
+
+
+soumitra is sending data to bibhu--------------------
+Total packet sent = 95
+Effective packet sent = 37
+Total time taken = 0.310342 minutes
+Throughput =   1144 bps
+Efficiency percentage =  28.61 %
+Successfull transmission time = 0.503257 seconds/packet
+
+
+bibhu is sending data to soumitra--------------------
+Total packet sent = 69
+Effective packet sent = 37
+Total time taken = 0.277728 minutes
+Throughput =   1278 bps
+Efficiency percentage =  31.97 %
+Successfull transmission time = 0.450370 seconds/packet
+
+
+soumitra is sending data to bibhu--------------------
+Total packet sent = 101
+Effective packet sent = 37
+Total time taken = 0.344976 minutes
+Throughput =   1029 bps
+Efficiency percentage =  25.74 %
+Successfull transmission time = 0.559420 seconds/packet
+
+
+soumitra is sending data to bibhu--------------------
+Total packet sent = 1360
+Effective packet sent = 438
+Total time taken = 4.709214 minutes
+Throughput =    892 bps
+Efficiency percentage =  22.32 %
+Successfull transmission time = 0.645098 seconds/packet
+
+
+bibhu is sending data to soumitra--------------------
+Total packet sent = 1254
+Effective packet sent = 438
+Total time taken = 4.547088 minutes
+Throughput =    924 bps
+Efficiency percentage =  23.12 %
+Successfull transmission time = 0.622889 seconds/packet
+
+
+soumitra is sending data to bibhu--------------------
+Total packet sent = 864
+Effective packet sent = 438
+Total time taken = 2.855463 minutes
+Throughput =   1472 bps
+Efficiency percentage =  36.81 %
+Successfull transmission time = 0.391159 seconds/packet
+
+
+bibhu is sending data to soumitra--------------------
+Total packet sent = 1089
+Effective packet sent = 438
+Total time taken = 3.668320 minutes
+Throughput =   1146 bps
+Efficiency percentage =  28.66 %
+Successfull transmission time = 0.502510 seconds/packet
+
+
+bibhu is sending data to soumitra--------------------
+Total packet sent = 1029
+Effective packet sent = 438
+Total time taken = 3.360805 minutes
+Throughput =   1251 bps
+Efficiency percentage =  31.28 %
+Successfull transmission time = 0.460384 seconds/packet
+
+
+client2 is sending data to client1--------------------
+Total packet sent = 93
+Effective packet sent = 37
+Total time taken = 0.299123 minutes
+Throughput =   1187 bps
+Efficiency percentage =  29.69 %
+Successfull transmission time = 0.485064 seconds/packet
+
